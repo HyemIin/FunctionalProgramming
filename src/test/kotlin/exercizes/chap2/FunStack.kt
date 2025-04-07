@@ -1,5 +1,6 @@
 package exercizes.chap2
 
+import com.ubertob.pesticide.core.DDT
 import org.junit.jupiter.api.Test
 import strikt.api.expectThat
 import strikt.assertions.isEqualTo
