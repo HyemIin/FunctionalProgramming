@@ -1,4 +1,4 @@
-package exercizes.chapo6
+package exercizes.chap6
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
